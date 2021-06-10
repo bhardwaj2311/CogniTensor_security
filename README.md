@@ -1,6 +1,6 @@
 # CogniTensor_security
 
-Test.py is the main project file and Project.py just shows what's happening in the backend of Test.py.
+Test.py is the main project file.
 
 Voice.py contains the code to encorpoarte voice module in Test.py.
 
